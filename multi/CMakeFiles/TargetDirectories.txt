@@ -1,0 +1,3 @@
+/home/satyam/Documents/cuda_matrixmultiplication/multi/CMakeFiles/multi.dir
+/home/satyam/Documents/cuda_matrixmultiplication/multi/CMakeFiles/edit_cache.dir
+/home/satyam/Documents/cuda_matrixmultiplication/multi/CMakeFiles/rebuild_cache.dir

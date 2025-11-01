@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/satyam/Documents/cuda_matrixmultiplication/multi/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

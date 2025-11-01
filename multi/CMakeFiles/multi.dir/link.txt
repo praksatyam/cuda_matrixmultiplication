@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/multi.dir/link.d CMakeFiles/multi.dir/src/main.cu.o CMakeFiles/multi.dir/src/utils.cpp.o -o multi   -L/usr/local/cuda-13.0/targets/x86_64-linux/lib/stubs  -L/usr/local/cuda-13.0/targets/x86_64-linux/lib  -lcublas -lcudadevrt -lcudart_static -lrt -lpthread -ldl
